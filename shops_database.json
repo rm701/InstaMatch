@@ -1,0 +1,358 @@
+[
+  {
+    "handle": "@sugar_rush_bynour",
+    "business_name": "sugar_rush_bynour",
+    "category": "Food & Desserts",
+    "niche_tags": [
+      "floral cake",
+      "stitch cake",
+      "pearl cake",
+      "bow cake"
+    ],
+    "location": "Lebanon",
+    "price_tier": "$$",
+    "offers_delivery": false,
+    "contact_channel": "71979993"
+  },
+  {
+    "handle": "@telodaily",
+    "business_name": "telodaily",
+    "category": "Beauty & Skincare",
+    "niche_tags": [
+      "natural skincare",
+      "beef tallow",
+      "farm-to-skin",
+      "organic",
+      "minimalist"
+    ],
+    "location": "Lebanon",
+    "price_tier": "$$",
+    "offers_delivery": false,
+    "contact_channel": "Instagram DM"
+  },
+  {
+    "handle": "@Vioa Giftshop",
+    "business_name": "voila.giftshop",
+    "category": "Artisan Crafts",
+    "niche_tags": [
+      "gift shop",
+      "pottery",
+      "Lebanese",
+      "music box",
+      "vintage",
+      "handmade"
+    ],
+    "location": "Lebanon",
+    "price_tier": "$$",
+    "offers_delivery": false,
+    "contact_channel": "Instagram DM"
+  },
+  {
+    "handle": "@SoapStudio",
+    "business_name": "soapstudio.lb",
+    "category": "Artisan Crafts",
+    "niche_tags": [
+      "Glycerin Soap Base",
+      "White",
+      "Clear",
+      "Pre-colored bases",
+      "Soap Molds",
+      "Soap making",
+      "Crafters",
+      "Souvenirs",
+      "Small businesses"
+    ],
+    "location": "Lebanon",
+    "price_tier": "$$",
+    "offers_delivery": false,
+    "contact_channel": "DM/WhatsApp"
+  },
+  {
+    "handle": "@she shines lebanon",
+    "business_name": "sheshineslebanon",
+    "category": "Beauty & Skincare",
+    "niche_tags": [
+      "organic body care",
+      "signature scent",
+      "underarm scrub",
+      "alpha arbutin",
+      "hair mist",
+      "body mist",
+      "whipped shea butter",
+      "body oil",
+      "body lotion",
+      "personal care"
+    ],
+    "location": "Lebanon",
+    "price_tier": "$$",
+    "offers_delivery": true,
+    "contact_channel": "Instagram DM"
+  },
+  {
+    "handle": "@cavella.chocolate",
+    "business_name": "cavella.chocolate",
+    "category": "Food & Desserts",
+    "niche_tags": [
+      "Belgian chocolate",
+      "weddings",
+      "events",
+      "special moments",
+      "sweet gift",
+      "white chocolate",
+      "dark chocolate",
+      "strawberry chocolate"
+    ],
+    "location": "Lebanon",
+    "price_tier": "$$",
+    "offers_delivery": false,
+    "contact_channel": "Instagram DM"
+  },
+  {
+    "handle": "@sweetandmore_official",
+    "business_name": "sweetandmore_official",
+    "category": "Home & Decor",
+    "niche_tags": [
+      "Chocolate",
+      "Home Decor",
+      "Gift",
+      "Art",
+      "Luxury"
+    ],
+    "location": "Jnoub Kafardounin",
+    "price_tier": "$$",
+    "offers_delivery": false,
+    "contact_channel": "+96170065915"
+  },
+  {
+    "handle": "@the.noticeable1",
+    "business_name": "the.noticeable1",
+    "category": "Services",
+    "niche_tags": [
+      "personalized coloring books",
+      "custom branding",
+      "logo design",
+      "business cards",
+      "menu design",
+      "posters"
+    ],
+    "location": "Lebanon",
+    "price_tier": "$$",
+    "offers_delivery": false,
+    "contact_channel": "Instagram DM"
+  },
+  {
+    "handle": "@pebblestonesart",
+    "business_name": "pebblestonesart",
+    "category": "Artisan Crafts",
+    "niche_tags": [
+      "handmade",
+      "pebble art",
+      "custom frames",
+      "personalized gifts",
+      "family story",
+      "Father's Day",
+      "handcrafted",
+      "art"
+    ],
+    "location": "Lebanon",
+    "price_tier": "$$",
+    "offers_delivery": false,
+    "contact_channel": "WhatsApp: 9613003953"
+  },
+  {
+    "handle": "@crocheaa_",
+    "business_name": "crocheaa",
+    "category": "Artisan Crafts",
+    "niche_tags": [
+      "handmade crochet",
+      "custom pieces",
+      "tiny bags",
+      "customizable",
+      "crochet bags",
+      "handcrafted accessories"
+    ],
+    "location": "Lebanon",
+    "price_tier": "$$",
+    "offers_delivery": true,
+    "contact_channel": "Instagram DM"
+  },
+  {
+    "handle": "@artizana.by.amani",
+    "business_name": "Artisana by Amani",
+    "category": "Artisan Crafts",
+    "niche_tags": [
+      "Lebanese pitcher",
+      "rakwe set",
+      "magnet",
+      "heritage",
+      "modern heritage",
+      "traditions",
+      "creativity"
+    ],
+    "location": "Lebanon",
+    "price_tier": "$$",
+    "offers_delivery": false,
+    "contact_channel": "Instagram DM"
+  },
+  {
+    "handle": "@taalaqi_bymanar",
+    "business_name": "taalaqi_bymanar",
+    "category": "Fashion",
+    "niche_tags": [
+      "bags",
+      "accessories",
+      "luxury",
+      "Coach",
+      "elegant",
+      "trendy",
+      "premium",
+      "affordable"
+    ],
+    "location": "Lebanon",
+    "price_tier": "$$",
+    "offers_delivery": true,
+    "contact_channel": "Instagram DM"
+  },
+  {
+    "handle": "@sophiasbeautylb",
+    "business_name": "Sophia's Beauty",
+    "category": "Beauty & Skincare",
+    "niche_tags": [
+      "Vegan",
+      "Cruelty-free",
+      "Sulfate-free",
+      "Hair care",
+      "Bath & body care",
+      "Soft luxury"
+    ],
+    "location": "Lebanon",
+    "price_tier": "$$",
+    "offers_delivery": false,
+    "contact_channel": "Instagram DM"
+  },
+  {
+    "handle": "@shayakombucha",
+    "business_name": "shayakombucha",
+    "category": "Food & Desserts",
+    "niche_tags": [
+      "Artisanal",
+      "Local",
+      "Fermented",
+      "Kombucha",
+      "Immunity Booster",
+      "Energy",
+      "Low Calorie",
+      "SCOBY",
+      "Healthy Drinks"
+    ],
+    "location": "Dhoûr Ech Choueïr",
+    "price_tier": "$$",
+    "offers_delivery": false,
+    "contact_channel": "Instagram DM"
+  },
+  {
+    "handle": "@mojwildseafood",
+    "business_name": "mojwildseafood",
+    "category": "Food & Desserts",
+    "niche_tags": [
+      "Premium & Sustainable Wild Seafood",
+      "Wild-caught tuna",
+      "Bluefin tuna",
+      "Fresh catch",
+      "Omega-3",
+      "Sustainable",
+      "Wild Seafood"
+    ],
+    "location": "Lebanon",
+    "price_tier": "$$$",
+    "offers_delivery": true,
+    "contact_channel": "Instagram DM"
+  },
+  {
+    "handle": "@happymadecrochet",
+    "business_name": "Hanaa's Crochet Creations",
+    "category": "Artisan Crafts",
+    "niche_tags": [
+      "crochet plushies",
+      "custom clothing",
+      "bags",
+      "pet-themed keychains",
+      "head scarves"
+    ],
+    "location": "Lebanon",
+    "price_tier": "$$",
+    "offers_delivery": false,
+    "contact_channel": "Instagram DM or Whatsapp"
+  },
+  {
+    "handle": "@beautemagnetismlb",
+    "business_name": "beautemagnetismlb",
+    "category": "Beauty & Skincare",
+    "niche_tags": [
+      "lip balm",
+      "body care",
+      "all-natural",
+      "organic",
+      "natural",
+      "self care"
+    ],
+    "location": "Lebanon",
+    "price_tier": "$$",
+    "offers_delivery": false,
+    "contact_channel": "Instagram DM"
+  },
+  {
+    "handle": "@boutiquedimoi",
+    "business_name": "boutiquedimoi",
+    "category": "Fashion",
+    "niche_tags": [
+      "Men",
+      "Women",
+      "Big Sizes",
+      "Handmade",
+      "T-Creations",
+      "Casual Outfits",
+      "Promotions"
+    ],
+    "location": "Brummana",
+    "price_tier": "$$",
+    "offers_delivery": false,
+    "contact_channel": "WhatsApp 03-858562"
+  },
+  {
+    "handle": "@fatima's_ sourdough_house",
+    "business_name": "sourd.oughhouse",
+    "category": "Food & Desserts",
+    "niche_tags": [
+      "sourdough",
+      "cheese",
+      "chocolate",
+      "zaatar"
+    ],
+    "location": "Lebanon",
+    "price_tier": "$$",
+    "offers_delivery": false,
+    "contact_channel": "Instagram DM"
+  },
+  {
+    "handle": "@by.tafaseeel",
+    "business_name": "by.tafaseeel",
+    "category": "Artisan Crafts",
+    "niche_tags": [
+      "perfume",
+      "herbal tea",
+      "luxury boxes",
+      "souvenirs",
+      "mug",
+      "gift",
+      "handbag",
+      "signature perfume",
+      "tea",
+      "essence collection"
+    ],
+    "location": "Lebanon",
+    "price_tier": "$$",
+    "offers_delivery": false,
+    "contact_channel": "Instagram DM or WhatsApp"
+  }
+]
